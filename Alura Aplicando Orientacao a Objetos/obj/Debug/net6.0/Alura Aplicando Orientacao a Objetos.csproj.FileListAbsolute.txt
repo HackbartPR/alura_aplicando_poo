@@ -1,0 +1,15 @@
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\bin\Debug\net6.0\Alura Aplicando Orientacao a Objetos.exe
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\bin\Debug\net6.0\Alura Aplicando Orientacao a Objetos.deps.json
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\bin\Debug\net6.0\Alura Aplicando Orientacao a Objetos.runtimeconfig.json
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\bin\Debug\net6.0\Alura Aplicando Orientacao a Objetos.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\bin\Debug\net6.0\Alura Aplicando Orientacao a Objetos.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.csproj.AssemblyReference.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.AssemblyInfoInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.AssemblyInfo.cs
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\refint\Alura Aplicando Orientacao a Objetos.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\Alura Aplicando Orientacao a Objetos.genruntimeconfig.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Aplicando Orientacao a Objetos\Alura Aplicando Orientacao a Objetos\obj\Debug\net6.0\ref\Alura Aplicando Orientacao a Objetos.dll
